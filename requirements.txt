@@ -1,0 +1,23 @@
+# Machine Learning algorithms and data evaluation tools
+scikit-learn
+
+# High-performance gradient boosting for tabular data
+xgboost
+
+# Text preprocessing and Natural Language Processing (NLP)
+nltk
+
+# Data manipulation and tabular DataFrame analysis
+pandas
+
+# Numerical computing and multi-dimensional array operations
+numpy
+
+# Data Version Control for tracking datasets and ML pipelines
+dvc
+
+# YAML parser to read config files (like params.yaml)
+PyYAML
+
+# Installs the current directory as an editable package for local module imports
+#-e .
